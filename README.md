@@ -63,19 +63,6 @@ Reusable UI components designed for scalable applications.
 
 ---
 
-## 📈 GitHub Stats
 
-![Mink's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkbyte&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minkbyte&layout=compact&theme=github_dark)
-
----
-
-## 🔗 Connect With Me
-
-- LinkedIn
-- Portfolio Website
-
----
 
 ⭐ If you like my work, feel free to explore my repositories and connect.
