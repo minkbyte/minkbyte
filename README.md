@@ -65,13 +65,9 @@ Reusable UI components designed for scalable applications.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minkbyte&show_icons=true&theme=github_dark" />
-</p>
+![Mink's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkbyte&show_icons=true&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minkbyte&layout=compact&theme=github_dark" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minkbyte&layout=compact&theme=github_dark)
 
 ---
 
