@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mink Singh Chauhan</h1>
-<h3 align="center">Frontend Developer | React | Next.js</h3>
+<h3 align="center">Software Developer | React | Next.js</h3>
 
 <p align="center">
 Building scalable, performant, and user-focused web applications.
